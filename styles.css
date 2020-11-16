@@ -8,17 +8,17 @@ body {
 
 h1 { 
 	color: #006400;
-	font-size: 12em;
+	font-size: 3em;
 }
 
 p {
-	font-family: 'Noto Serif', serif;
+	font-family: 'Noto Serif', serif;'Modak', cursive;
 	color: #006400;
 	max-width: 20em;
 	width: 100%;
 	text-align: left;
 	margin: 1em auto 1em auto;
-	font-size: 12em;
+	font-size: 1.8em;
 	line-height: 1.3;
 	}
 
