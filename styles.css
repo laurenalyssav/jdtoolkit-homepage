@@ -4,7 +4,7 @@ body {
 	font-size: 9px;
 	padding: 1em;
 	text-align: center;
-	font-family: 'Modak', cursive;
+	font-family: 'Noto Serif', serif;
 
 h1 { 
 	color: #006400;
@@ -12,7 +12,7 @@ h1 {
 }
 
 p {
-	font-family: 'Modak', cursive;
+	font-family: 'Noto Serif', serif;
 	color: #006400;
 	max-width: 30em;
 	width: 100%;
