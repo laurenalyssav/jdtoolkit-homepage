@@ -1,14 +1,14 @@
 body {
 	background-color: #FAF6E3;
 	margin: 1em auto;
-	font-size: 9px;
+	font-size: 12px;
 	padding: 1em;
 	text-align: center;
 	font-family: 'Noto Serif', serif;
 
 h1 { 
 	color: #006400;
-	font-size: 3em;
+	font-size: 12em;
 }
 
 p {
@@ -18,7 +18,7 @@ p {
 	width: 100%;
 	text-align: left;
 	margin: 1em auto 1em auto;
-	font-size: 1.8em;
+	font-size: 12em;
 	line-height: 1.3;
 	}
 
