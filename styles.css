@@ -12,7 +12,7 @@ h1 {
 }
 
 p {
-	font-family: 'Noto Serif', serif;'Modak', cursive;
+	font-family: 'Noto Serif', serif;
 	color: #006400;
 	max-width: 20em;
 	width: 100%;
@@ -23,7 +23,7 @@ p {
 	}
 
 img.logo {
-	width: 100%;
+	width: 50%;
 	height: auto;
 	max-width: 20em;
 	max-height: 20em;
