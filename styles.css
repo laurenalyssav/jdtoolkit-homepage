@@ -4,7 +4,7 @@ body {
 	font-size: 9px;
 	padding: 1em;
 	text-align: center;
-	font-family: 'Architects Daughter', cursive;
+	font-family: 'Noto Serif', serif;
 	} 
 
 h1 { 
@@ -13,7 +13,7 @@ h1 {
 }
 
 p {
-	font-family: 'Architects Daughter', cursive;
+	font-family: 'Noto Serif', serif;
 	color: #006400;
 	max-width: 20em;
 	width: 100%;
